@@ -1,7 +1,29 @@
-# Building_A_Simple_Network
-1st Project  - CybSecAn - PacketTracer - H4Cck3rsP0ulett3
+# 1st Project  - CybSecAn - PacketTracer - H4Cck3rsP0ulett3
 ********************************************************
 
-Test 1 2 3 4 
+This project is a network design implemented in Cisco Packet Tracer.
 
-5 6 7 8
+## Equipment used:
+
+- 1 switch (Cisco 2960)
+- 3 PCs 
+- Three Ethernet cables
+
+**Addressing table :**
+
+| Devices | LAN | IP | Mask |
+|---------|-----|----|------|
+| PC-Robert | Eth | 192.168.1.10 | 255.255.255.0 | 
+| PC-Camille | Eth | 192.168.1.11 | 255.255.255.0 |
+| PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0 |
+
+
+This project was created by T.Cosimo
+
+
+## Live Version:
+[Link to live version (if applicable)]
+
+## Link to Source Code on GitHub:
+Source code available on [GitHub](link_to_repository).
+
