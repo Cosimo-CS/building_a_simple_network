@@ -22,8 +22,8 @@ This project was created by T.Cosimo
 
 
 ## Live Version:
-[Link to live version (if applicable)]
+[https://github.com/Cosimo-CS/building_a_simple_network/blob/main/H4cCk3rs-P0ulett3.pkt]
 
 ## Link to Source Code on GitHub:
-Source code available on [GitHub](link_to_repository).
+Source code available on [GitHub](https://github.com/Cosimo-CS/building_a_simple_network).
 
