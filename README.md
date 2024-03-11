@@ -17,14 +17,5 @@ This project is a network design implemented in Cisco Packet Tracer.
 | PC-Camille | Eth | 192.168.1.11 | 255.255.255.0 |
 | PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0 |
 
-
-
-## Live Version:
-[https://github.com/Cosimo-CS/building_a_simple_network/blob/main/H4cCk3rs-P0ulett3.pkt]
-
-## Link to Source Code on GitHub:
-Source code available on [GitHub](https://github.com/Cosimo-CS/building_a_simple_network).
-
-
 This project was created by T.Cosimo
 
