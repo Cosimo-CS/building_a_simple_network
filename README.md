@@ -3,14 +3,15 @@
 
 The 1st file of this project is named: H4cCk3rs-P0ulett3.pkt
 
-This project is a network design implemented in Cisco Packet Tracer.
+This project is a network design implemented in Cisco Packet Tracer.  There are 2 network inside it: 10.0.0.0 (For server) and 192.168.1.0 (Hackers Roulette company)
 
 ## Equipment used:
 
 - 1 switch (Cisco 2960)
 - 3 PCs 
 - Three Ethernet cables
-- Router
+- Router (Cisco 2911)
+- Server
 
 **Addressing table :**
 
@@ -19,8 +20,13 @@ This project is a network design implemented in Cisco Packet Tracer.
 | PC-Robert | Eth | 192.168.1.10 | 255.255.255.0 | 
 | PC-Camille | Eth | 192.168.1.11 | 255.255.255.0 |
 | PC-Renaud | Eth | 192.168.1.12 | 255.255.255.0 |
+| Server0 | Eth | 10.0.0.2| 255.0.0.0 |
 
+I also did a small HTML page inside the server.  To reach it via a PC you can use URL: 10.0.0.2
+
+Enjoy!
 ******************************************************************************
+
 After discussing with my coaches I elaborate another plan in Packet tracer with 2 network and 2 routers. 
 
 Here below you can find the full details of the project named: Simple_Project_2SubNet_2Router.pkt
