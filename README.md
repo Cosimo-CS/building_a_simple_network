@@ -36,7 +36,6 @@ Here below you can find the full details of the project named: Simple_Project_2S
 | PC-Robert | Eth | 192.168.1.0 | 192.168.1.10 | 255.255.255.0 | 
 | PC-Camille | Eth | 192.168.1.0 | 192.168.1.11 | 255.255.255.0 | 
 | PC-Renaud | Eth | 192.168.1.0 | 192.168.1.12 | 255.255.255.0 | 
-
 | PC-Kevin | Eth | 10.0.1.0 | 10.0.1.10 | 255.255.255.0 | 
 | PC-Walid | Eth | 10.0.1.0 | 10.0.1.11 | 255.255.255.0 | 
 | PC-Michael | Eth | 10.0.1.0 | 10.0.1.12 | 255.255.255.0 | 
@@ -50,9 +49,9 @@ Here below you can find the full details of the project named: Simple_Project_2S
 
 RIP Routing (Router 5)
 
-10.0.0.0
-172.16.0.0
-192.168.1.0
+- 10.0.0.0
+- 172.16.0.0
+- 192.168.1.0
 
 
 This project was created by T.Cosimo
