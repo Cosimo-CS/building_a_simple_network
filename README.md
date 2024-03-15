@@ -31,8 +31,8 @@ Here below you can find the full details of the project named: Simple_Project_2S
 
 **Addressing table :**
 
-| Devices | LAN | Network | | IP | Mask |
-|---------|-----|---------|------|------|
+| Devices | LAN | Network | IP | Mask |
+|---------|-----|---------|----|------|
 | PC-Robert | Eth | 192.168.1.0 | 192.168.1.10 | 255.255.255.0 | 
 | PC-Camille | Eth | 192.168.1.0 | 192.168.1.11 | 255.255.255.0 | 
 | PC-Renaud | Eth | 192.168.1.0 | 192.168.1.12 | 255.255.255.0 | 
