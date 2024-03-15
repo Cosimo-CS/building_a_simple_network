@@ -10,6 +10,7 @@ This project is a network design implemented in Cisco Packet Tracer.
 - 1 switch (Cisco 2960)
 - 3 PCs 
 - Three Ethernet cables
+- Router
 
 **Addressing table :**
 
@@ -30,6 +31,7 @@ Here below you can find the full details of the project named: Simple_Project_2S
 - 6 PCs 
 - Eight Ethernet cables
 - One copper cross over cable
+- 2 Router 
 
 **Addressing table :**
 
