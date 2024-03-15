@@ -1,7 +1,7 @@
 # 1st Project  - CybSecAn - PacketTracer - H4Cck3rsP0ulett3
 ********************************************************
 
-The 1st file of this project is named: 
+The 1st file of this project is named: H4cCk3rs-P0ulett3.pkt
 
 This project is a network design implemented in Cisco Packet Tracer.
 
@@ -22,7 +22,7 @@ This project is a network design implemented in Cisco Packet Tracer.
 ******************************************************************************
 After discussing with my coaches I elaborate another plan in Packet tracer with 2 network and 2 routers. 
 
-Here below you can find the full details of the project named: Simple_Project_2SubNet_2Router
+Here below you can find the full details of the project named: Simple_Project_2SubNet_2Router.pkt
 
 ## Equipment used:
 
